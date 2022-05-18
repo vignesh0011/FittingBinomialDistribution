@@ -74,7 +74,7 @@ else:
 
 
 # OUTPUT:
-![Screenshot (51)](![exp1](https://user-images.githubusercontent.com/53014593/168960455-41b93367-0c0d-48e4-9224-1a55a248de19.jpg)
+![exp1](https://user-images.githubusercontent.com/53014593/168960455-41b93367-0c0d-48e4-9224-1a55a248de19.jpg)
 
 
 
